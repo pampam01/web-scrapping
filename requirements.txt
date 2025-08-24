@@ -1,0 +1,8 @@
+streamlit
+pandas
+beautifulsoup4
+requests
+tldextract
+python-dotenv
+urllib3
+lxml
